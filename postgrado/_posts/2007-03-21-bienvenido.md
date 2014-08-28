@@ -18,6 +18,7 @@ author:
     image: "http://static.flickr.com/93/279356255_fb52db20a0_o.jpg"
 ---
 
-<div class="css-full-post-content js-full-post-content">
-He creado un blog utilizando www.blogger.com, los archivos se coloca dentro de www.postgradoweb.com/blogger/<br /><br />Para editar entradas necesita obtener una cuenta google, y un invitación que puedo enviar si me avisa.
-</div>
+
+He creado un blog utilizando www.blogger.com, los archivos se coloca dentro de www.postgradoweb.com/blogger/  
+
+Para editar entradas necesita obtener una cuenta google, y un invitación que puedo enviar si me avisa.

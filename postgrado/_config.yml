@@ -1,3 +1,4 @@
 name: postgradoblog
 markdown: redcarpet
 pygments: true
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
