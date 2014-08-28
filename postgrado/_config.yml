@@ -1,0 +1,3 @@
+name: postgradoblog
+markdown: redcarpet
+pygments: true
