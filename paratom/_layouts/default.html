@@ -1,20 +1,43 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
 
-  {% include head.html %}
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
 
-  <body>
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
 
-    {% include header.html %}
+    </head>
+    <body>
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+        <div class="site">
+          <div class="header">
+            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+            <a class="extra" href="/">home</a>
+          </div>
 
-    {% include footer.html %}
+          {{ content }}
 
-  </body>
+          <div class="footer">
+            <div class="contact">
+              <p>
+                Tommy Skodje<br />
+                White, middle-aged male<br />
+                Oslo, Norway
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+                <a href="http://2my.sk">2my.sk</a><br />
+              </p>
+            </div>
+          </div>
+        </div>
 
+    </body>
 </html>

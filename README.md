@@ -4,9 +4,12 @@
 GitHub Pages for 2my
 
 
+Currently fails due to nokogiri:
 ´´´
 bundle exec jekyll serve
 ´´´
+
+Try instead ´´´jekyll serve´´´ from blog dir  
 
 https://help.github.com/articles/using-jekyll-with-pages
 
