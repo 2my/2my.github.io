@@ -178,13 +178,12 @@ operator mode for methods</td>
 	* understands java  generics
 	* uses   java  primitives
 
-Leads you into   <span style="font-weight: bold;">functional  programming</span>.
+Leads you into **functional  programming.
 
 Easy  to do easy  stuff, AND facilitates the hard stuff.
 
-<span style="font-weight: bold;">More up2date</span> language - builds on java lessons, adds:<span style="font-weight: bold;">
+**More up2date** language - builds on java lessons, adds:
 
-</span>
 	* Facilitates   DSL  with several short-hand notations
 	* Traits (~multiple  inheritance)
 	* ++

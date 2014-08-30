@@ -33,14 +33,12 @@ supports **Domain-Specific Languages** and other compact syntax so your code bec
 makes writing shell and build scripts easy with its **powerful processing primitives**, OO abilities and an Ant DSL
 
 	* GAnt = ant-script skrevet i Groovy (ikke xml) 
-increases developer productivity by **reducing scaffolding code** when developing web, GUI, database or console applications<span style="font-weight: bold;">
-
-</span>**simplifies testing** by supporting unit testing and mocking out-of-the-box
+increases developer productivity by **reducing scaffolding code** when developing web, GUI, database or console applications. **simplifies testing** by supporting unit testing and mocking out-of-the-box
 
 seamlessly **integrates with all existing Java objects and libraries**
 
 	* Kan kalle frem og tilbake  
-	* Joint compiler compiles <span style="font-weight: bold;">straight to Java bytecode</span> so you can use it anywhere you can use Java
+	* Joint compiler compiles **straight to Java bytecode** so you can use it anywhere you can use Java
 
 ## Hands dirty, now!
 ```
