@@ -64,6 +64,6 @@ Posten sin <a href='http://epab.posten.no/Norsk/Nedlasting/NedlastingMeny.htm'>n
 
 Freebase har tripleter (subjekt+verb+objekt) som mapper postnumre til geolokasjoner, ikke mange norske. <a href='http://www.freebase.com/view/guid/9202a8c04000641f8000000003ea003a'>eksempel</a>.
 
-Google laget en liste med <span class='secttl'><a href='http://groups.google.com/group/Google-Maps-API/web/resources-non-google-geocoders'>Geocoders</a>.</span>
+Google laget en liste med <a href='http://groups.google.com/group/Google-Maps-API/web/resources-non-google-geocoders'>Geocoders</a>.
 
 <a href='http://irb.no/-/bulletin/show/65093_postnummer-geodata'/></div>

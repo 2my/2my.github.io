@@ -3,7 +3,6 @@
 
 GitHub Pages for 2my
 
-
 Currently fails due to nokogiri:
 ´´´
 bundle exec jekyll serve
