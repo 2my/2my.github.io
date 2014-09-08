@@ -1,15 +1,15 @@
 ---
 title: "Drawing and Visual thinking"
+categories: [design]
 layout: "post"
 date: "2007-09-06 11:18:00"
 updated: "2008-11-12 08:54:23"
 blogger:
     siteid: "36955474"
     postid: "6700780956605913865"
-categories: 
 ---
 
-<a title='Permanent Link: Sketching is the new black : inspirations from the analog world' rel='bookmark' href='http://www.adaptivepath.com/blog/2008/09/08/sketching-is-the-new-black-inspirations-from-the-analog-world/'>Sketching is the new black : inspirations from the analog world</a>
+<a href='http://www.adaptivepath.com/blog/2008/09/08/sketching-is-the-new-black-inspirations-from-the-analog-world/'>Sketching is the new black : inspirations from the analog world</a>
 
 <a href='http://communicationnation.blogspot.com/2005/12/visual-thinking-practice-draw-stick.html'>Communication Nation: Visual thinking practice: Draw a stick figure</a>.
 
@@ -29,9 +29,3 @@ http://www.thebackofthenapkin.com/
 
 http://www.visual-literacy.org/periodic_table/periodic_table.html
 
-<a href='http://www.adaptivepath.com/blog/2008/09/08/sketching-is-the-new-black-inspirations-from-the-analog-world/' rel='bookmark' title='Permanent Link: Sketching is the new black : inspirations from the analog world'>Sketching is the new black : inspirations from the analog world</a>
-
-.
-
-</div>
-</div>

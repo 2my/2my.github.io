@@ -1,6 +1,6 @@
 ---
 title: "Velkommen!"
-categories: 
+categories: [2my]
 layout: "post"
 date: "2006-11-01 17:23:00"
 updated: "2006-11-05 20:31:08"

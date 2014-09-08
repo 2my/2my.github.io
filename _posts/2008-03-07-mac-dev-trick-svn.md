@@ -1,6 +1,6 @@
 ---
 title: "Mac (dev) trick: svn"
-categories: 
+categories: [mac]
 layout: "post"
 date: "2008-03-07 22:15:00"
 updated: "2008-03-08 19:48:15"

@@ -17,21 +17,22 @@ I ended up using <a href="http://www.osjava.org/simple-jndi/index.html">Simple-J
 
 <a href="http://www.unicon.net/node/601">Injecting Constants as Spring Bean Properties | Unicon</a>
 
-### My setup for lookup-key "java:comp/env/jdbc/ds":
-**jndi.properties**:
-```
+## My setup for lookup-key "java:comp/env/jdbc/ds":
+### jndi.properties
+~~~~
 java.naming.factory.initial=org.osjava.sj.SimpleContextFactory
 org.osjava.sj.root=${project.build.directory}\\test-classes\\jndi
 org.osjava.sj.colon.replace=--
 org.osjava.sj.delimiter=/
-```
-**src/test/resources/jndi/java--comp/env/jdbc/ds.properties:** 
-```
+~~~~
+
+### src/test/resources/jndi/java--comp/env/jdbc/ds.properties
+~~~~
 type=javax.sql.DataSource
 driver=oracle.jdbc.OracleDriver
 url=${db.url}
 user=${db.user}
 password=${db.password}
-```
+~~~~
 
 <a href="http://commons.apache.org/configuration/">commons-configuration</a>

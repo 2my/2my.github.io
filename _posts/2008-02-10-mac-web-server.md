@@ -1,12 +1,12 @@
 ---
 title: "MacOS 10.5 and Apache httpd 2.2"
+categories: [mac]
 layout: "post"
 date: "2008-02-10 18:25:00"
 updated: "2008-02-21 21:05:45"
 blogger:
     siteid: "36955474"
     postid: "2013367502997820838"
-categories: 
 ---
 
 Httpd 2.2 is included, but when I turned on web sharing, I got 403 for my personal page.
