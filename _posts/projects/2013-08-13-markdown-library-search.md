@@ -11,7 +11,7 @@ blogger:
 
 To no avail so far.
 
-I would really like to use [MultiMarkDown][MultiMarkDown] because Byword and Scrivener uses it and I like the dialect. Now, if I only could find a library that lets me generate a site from MarkDown files in my project... I searched libraries on the [markdown library list][markdown]. None fit the bill in june 2013.
+I would really like to use [MultiMarkDown][MultiMarkDown] because Byword and Scrivener uses it and I like the dialect. Now, if I only could find a library that lets me generate a site from MarkDown files in my project... I searched libraries on the [Markdown Community Page][markdown] library list. None fit the bill in june 2013.
 
 This <a href="http://stackoverflow.com/questions/15402512/whole-site-compilation-of-markdown-pandoc/15402977">thread on Stack Overflow</a> lists some options, mostly for PanDoc.
 
@@ -28,5 +28,5 @@ Maven uses <a href="https://github.com/rjeschke/txtmark">TxtMark</a>: com.github
 Play uses <a href="http://markdown.tautua.org/">Tatua</a>: org.tautua.markdownpapers/markdownpapers-core /1.3.4 / (in play)
 
 
-	[MultiMarkDown]: http://multimarkdown.com/
-	[markdown]: http://markdown.github.io/
+  [MultiMarkDown]: http://multimarkdown.com/  "MultiMarkDown site"
+  [markdown]: http://markdown.github.io/
