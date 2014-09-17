@@ -12,7 +12,7 @@ blogger:
 Subversion is included with XCode and documented in XCodeUserGuide. Excerpt:
 
 	1 svnadmin create /Volumes/LACIE/svnrep
-	1 svn import -m "prosjekt for jobbsøk" /Users/tommy/Documents/Projects/archive/mycontacts file:///Volumes/LACIE/svnrep/mycontacts
-	1 svn checkout file:///Volumes/LACIE/svnrep/mycontacts mycontacts
+	2 svn import -m "prosjekt for jobbsøk" /Users/tommy/Documents/Projects/archive/mycontacts file:///Volumes/LACIE/svnrep/mycontacts
+	3 svn checkout file:///Volumes/LACIE/svnrep/mycontacts mycontacts
 
 Added project "HobbyCode" as well, poms do not work yet - need to mkdir target...
