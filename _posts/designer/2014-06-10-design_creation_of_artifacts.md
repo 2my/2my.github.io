@@ -6,17 +6,19 @@ date: "2014-06-10 10:11:12"
 ---
 
 
-
-Assignments were delivered via blog-posts on [weebly][weebly].
+Class is archived in Coursera [class archive][design-004].  
+Assignments were delivered via blog-posts on [weebly][weebly].  
 
 ## Design Process (Week 1)
 gap → (sense gap) → (define problem) → (explore alternatives) → (select plan) → plan  
 Usually iterate through process.  
+![Design process]({{ site.url }}/assets/2014-06-10-design-process.png)
 
 ### Finding Gaps
-	list annoyances that has occurred to me the last days.
+List annoyances that has occurred to me the last days.  
 
 How to identify needs
+
 	1 Connect with users
 		* Observe in use environment, look for
 			- Awkvard actions
@@ -43,6 +45,8 @@ How to identify needs
 	4 Flag latent needs
 	5 Establish relative importance of needs
 
+### Types of needs
+![example function diagram]({{ site.url }}/assets/2014-06-10-types-of-needs.jpg)
 
 ## Problem Statement Articulated Using "5 Whys" (Week 2)
 	why ↑ generalize
@@ -56,9 +60,10 @@ A function diagram decomposes functions into flows of:
 	* Materials
 	* Signals
 
-**TODO**: Figure.  
+![example function diagram]({{ site.url }}/assets/2014-06-10-function-diagram-example.png)
+
 Pick 2-3 functions.  
-Example: "Divide from bulk":
+Example: "Divide from bulk":  
 	* twist
 	* squeeze
 	* hammer
@@ -81,10 +86,8 @@ Decompose by key / latent needs.
 Then combine.  
 Example: "Cart as table" + "Cart navigates curbs"
 
-## Sketch 10 Concepts From Preliminary Exploration
-
-
-## Concept Selection and Prototyping (Week 4)
+## Exploration (Week 4)
+Sketch 10 Concepts
 
 ### Concept Selection Matrix
 **User need**	|  A |  B |  C | ... |
@@ -149,5 +152,4 @@ Supply chain, product teardown.
 
 
   [weebly]: http://2my.weebly.com  "blog on Weebly"
-  [weebly]: http://2my.weebly.com  "blog on Weebly"
-https://class.coursera.org/design-004/lecture
+  [design-004]: https://class.coursera.org/design-004/lecture  "class archive"
