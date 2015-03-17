@@ -6,11 +6,18 @@ layout: "post"
 
 # Secrets of Happy Families
 
+Adapt, all the time.  
+Talk. A lot.  
+Go out and play.  
+
+Happiness (and greatness) is made in micro steps.
 
 ## Agile Families
 Morning todo:
+- make bed
 - wash
 - dress
+- comb hair
 - eat
 - make lunch
 - …
@@ -143,12 +150,58 @@ Tips:
 - Double date
 - Family night
 
-Form religion
+From religion
 - Joy
 - Forgiveness
 - Resilience
 
 ## Home
-- Describe image of new home with 10 adjectives
+Questionnaire
+- Describe image of ideal home with 10 adjectives / words / phrases
 - What is favourite building, and why
 - Describe a memorable characteristic or important living space from your past
+
+Tips
+- a home needs 3 kinds of spaces: individual, shared and public
+- circle sofas to promote communication
+- sit at 5,5 feet distance = portrait view (Mona Lisa)
+- eat like a parisian = next to each other
+- sit at same level (avoid power poses)
+- sit on cushioned seats
+
+## Travel
+Checklists:
+- must be linked in time and space, so create different lists for different times in process.
+- must be specific
+- only killer items, because no-brainers lead to checklist fatigue
+- limit (7)
+- include children
+
+## Games
+A good game should have
+1. a clear goal
+2. rules
+3. feedback
+4. voluntary
+
+3 types of players:
+1. Achievers
+2. Maxxers
+3. Decorators
+
+Cooperative games build community.  
+Focus more on maxing the positives.  
+
+### Sport
+Parents’ most destructive urging:
+- work too hard
+- succeed too mightily
+- specialise to early
+
+Under 12 (romantic era) - most important to enjoy game.  
+
+Coach and kid should create better competitors.  
+Parents should create better people:
+- before game: be driven, define your goals.
+- during game: no verbs, flush toilet.
+- after game: no postgame analysis, ask & tell 3 memorable things (and comment “I’m not worried, because you’re the kind of person that gets over that”)
