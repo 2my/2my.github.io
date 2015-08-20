@@ -1,7 +1,10 @@
 name: 2my.sk
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 pygments: true
-markdown: kramdown
+markdown: redcarpet
+
+redcarpet:
+  extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "hard_wrap"]
 
 email: tsk at antares
 description: > # this means to ignore newlines until "baseurl:"
@@ -12,7 +15,6 @@ baseurl: ""
 url: "http://2my.sk"
 twitter_username: tommy.skodje
 github_username:  2my
-
 
 defaults:
   -
