@@ -12,6 +12,8 @@ Try instead ´´´jekyll serve´´´ from blog dir
 
 https://help.github.com/articles/using-jekyll-with-pages
 
+Nokogiri on Yosemite: http://ruby.zigzo.com/2015/03/18/installing-nokogiri-on-yosemite/
+
 From Jekyll post:
 
 ---
