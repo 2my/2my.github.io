@@ -23,6 +23,7 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "posts"
+      lang: "no"
       author:
         name: "Tommy Skodje"
         url: "http://2my.sk"
