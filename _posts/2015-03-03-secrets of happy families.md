@@ -1,5 +1,5 @@
 ---
-title: “Secrets of Happy Families“
+title: Secrets of Happy Families
 categories: [barn book]
 layout: "posts"
 ---
