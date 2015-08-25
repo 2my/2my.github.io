@@ -1,7 +1,7 @@
 ---
 title: "Overnatting nær Hvittingfoss"
 categories: [travel, paragliding]
-layout: "post"
+layout: "posts"
 date: "2013-08-13 07:46:00"
 updated: "2013-08-13 07:47:45"
 blogger:

@@ -1,7 +1,7 @@
 ---
 title: "Breaking the Monolith from JavaZone 2013"
 categories: [work]
-layout: "post"
+layout: "posts"
 date: "2013-10-10 23:24:25"
 ---
 

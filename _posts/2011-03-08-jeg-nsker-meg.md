@@ -1,7 +1,7 @@
 ---
 title: "Jeg ønsker meg"
 categories: [wishes]
-layout: "post"
+layout: "posts"
 date: "2011-03-08 21:33:00"
 updated: "2014-02-17 21:24:38"
 blogger:

@@ -1,7 +1,7 @@
 ---
 title: "Drawing and Visual thinking"
 categories: [design]
-layout: "post"
+layout: "posts"
 date: "2007-09-06 11:18:00"
 updated: "2008-11-12 08:54:23"
 blogger:

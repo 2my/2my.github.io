@@ -1,7 +1,7 @@
 ---
 title: "Design & presentation"
 categories: [design]
-layout: "post"
+layout: "posts"
 date: "2008-05-25 19:13:00"
 updated: "2008-08-25 07:04:14"
 blogger:

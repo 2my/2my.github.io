@@ -1,7 +1,7 @@
 ---
 title: "Etiquetar y bocetos funcionales"
 categories: [proyecto]
-layout: "post"
+layout: "posts"
 date: "2007-05-18 15:19:00"
 updated: "2007-05-18 15:26:22"
 blogger:

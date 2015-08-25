@@ -1,6 +1,6 @@
 ---
 title: "Groovy Ant"
-layout: "post"
+layout: "posts"
 date: "2013-08-13 07:56:00"
 updated: "2013-08-13 07:56:28"
 blogger:

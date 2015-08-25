@@ -1,7 +1,7 @@
 ---
 title: "MacOS 10.5 and Apache httpd 2.2"
 categories: [mac]
-layout: "post"
+layout: "posts"
 date: "2008-02-10 18:25:00"
 updated: "2008-02-21 21:05:45"
 blogger:

@@ -1,6 +1,6 @@
 ---
 title: "JavaZone: introducing Apache Wicket"
-layout: "post"
+layout: "posts"
 permalink: "/2011/09/javazone-introducing-apache-wicket.html"
 uuid: "896052624377724457"
 guid: "tag:blogger.com,1999:blog-7706585097329252419.post-896052624377724457"

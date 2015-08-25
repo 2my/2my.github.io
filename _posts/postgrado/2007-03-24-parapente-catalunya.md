@@ -1,7 +1,7 @@
 ---
 title: "Parapente Catalunya"
 categories: [travel, catalunya, weather, paragliding]
-layout: "post"
+layout: "posts"
 date: "2007-03-24 20:23:00"
 updated: "2010-09-28 09:54:52"
 blogger:

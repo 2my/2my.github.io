@@ -1,6 +1,6 @@
 name: 2my.sk
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-pygments: true
+highlighter: pygments
 markdown: redcarpet
 
 redcarpet:
@@ -20,9 +20,9 @@ defaults:
   -
     scope:
       path: "" # an empty string here means all files in the
-      type: "post" # previously `post` in Jekyll 2.2.
+      type: "posts" # previously `post` in Jekyll 2.2.
     values:
-      layout: "post"
+      layout: "posts"
       author:
         name: "Tommy Skodje"
         url: "http://2my.sk"

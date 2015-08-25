@@ -1,7 +1,7 @@
 ---
 title: "Oppskrifter"
 categories: [food]
-layout: "post"
+layout: "posts"
 date: "2010-12-19 21:07:00"
 updated: "2014-02-05 20:38:12"
 blogger:

@@ -1,7 +1,7 @@
 ---
 title: "MarkDown Library Search"
 categories: [doc]
-layout: "post"
+layout: "posts"
 date: "2013-08-13 08:17:00"
 updated: "2013-08-13 08:17:18"
 blogger:

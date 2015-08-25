@@ -1,7 +1,7 @@
 ---
 title: "JNDI in JUnit tests"
 categories: [tg, testing]
-layout: "post"
+layout: "posts"
 date: "2008-05-08 16:07:00"
 updated: "2008-12-15 11:30:33"
 blogger:

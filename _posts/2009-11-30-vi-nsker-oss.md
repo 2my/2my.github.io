@@ -1,7 +1,7 @@
 ---
 title: "Vi ønsker oss..."
 categories: [wishes]
-layout: "post"
+layout: "posts"
 date: "2009-11-30 18:15:00"
 updated: "2013-12-13 12:36:58"
 blogger:

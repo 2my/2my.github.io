@@ -1,7 +1,7 @@
 ---
 title: "DotMe: My web 2 project"
 categories: [dotme]
-layout: "post"
+layout: "posts"
 date: "2009-04-07 22:30:00"
 updated: "2009-04-09 07:51:20"
 blogger:

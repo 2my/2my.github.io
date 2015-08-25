@@ -1,7 +1,7 @@
 ---
 title: "Regexp for logging of method calls"
 categories: [testing]
-layout: "post"
+layout: "posts"
 date: "2008-12-15 15:16:00"
 updated: "2009-11-16 10:30:26"
 blogger:

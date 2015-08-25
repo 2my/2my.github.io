@@ -1,7 +1,7 @@
 ---
 title: “Secrets of Happy Families“
 categories: [barn book]
-layout: "post"
+layout: "posts"
 ---
 
 # Secrets of Happy Families

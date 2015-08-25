@@ -1,7 +1,7 @@
 ---
 title: "Java sql type mapping (Oracle, MySql++)"
 categories: [xml, db]
-layout: "post"
+layout: "posts"
 date: "2008-04-18 11:16:00"
 updated: "2008-08-04 07:53:26"
 blogger:

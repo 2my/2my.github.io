@@ -1,7 +1,7 @@
 ---
 title: "iPhone development"
 categories: 
-layout: "post"
+layout: "posts"
 date: "2008-08-29 11:42:00"
 updated: "2008-09-22 11:08:05"
 blogger:

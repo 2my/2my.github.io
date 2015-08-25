@@ -1,7 +1,7 @@
 ---
 title: "UI checklists"
 categories: [tg, architecture]
-layout: "post"
+layout: "posts"
 date: "2008-07-15 08:31:00"
 updated: "2008-08-04 07:50:22"
 blogger:

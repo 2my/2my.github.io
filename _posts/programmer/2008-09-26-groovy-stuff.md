@@ -1,7 +1,7 @@
 ---
 title: "Groovy stuff"
 categories: 
-layout: "post"
+layout: "posts"
 date: "2008-09-26 12:04:00"
 updated: "2008-12-01 13:21:58"
 blogger:

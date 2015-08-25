@@ -1,7 +1,7 @@
 ---
 title: "Print photo"
 categories: [mac, photo]
-layout: "post"
+layout: "posts"
 date: "2011-08-07 12:00:00"
 updated: "2011-08-07 12:13:23"
 blogger:

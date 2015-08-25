@@ -1,7 +1,7 @@
 ---
 title: "Timing, proyecto"
 categories: [proyecto]
-layout: "post"
+layout: "posts"
 date: "2007-05-08 09:01:00"
 updated: "2007-05-08 09:11:46"
 blogger:

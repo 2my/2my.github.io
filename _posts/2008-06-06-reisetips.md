@@ -1,7 +1,7 @@
 ---
 title: "Reisetips"
 categories: [travel]
-layout: "post"
+layout: "posts"
 date: "2008-06-06 07:14:00"
 updated: "2010-09-28 09:54:52"
 blogger:

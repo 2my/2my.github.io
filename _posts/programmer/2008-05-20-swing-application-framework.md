@@ -1,7 +1,7 @@
 ---
 title: "Architecture: Swing, Maven2, NetBeans etc."
 categories: [guicode, tg, architecture]
-layout: "post"
+layout: "posts"
 date: "2008-05-20 04:03:00"
 updated: "2008-10-03 14:47:38"
 blogger:

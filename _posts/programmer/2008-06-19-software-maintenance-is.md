@@ -1,7 +1,7 @@
 ---
 title: "Software maintenance is..."
 categories: 
-layout: "post"
+layout: "posts"
 date: "2008-06-19 07:39:00"
 updated: "2008-06-19 07:39:59"
 blogger:

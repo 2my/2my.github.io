@@ -1,7 +1,7 @@
 ---
 title: "Struts2: Quick and easy Wizard"
 categories: 
-layout: "post"
+layout: "posts"
 date: "2009-05-14 11:34:00"
 updated: "2009-05-14 12:06:57"
 blogger:

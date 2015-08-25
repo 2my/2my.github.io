@@ -1,7 +1,7 @@
 ---
 title: "Bienvenido!"
 categories: [proyecto]
-layout: "post"
+layout: "posts"
 date: "2007-03-21 23:43:00"
 updated: "2007-05-08 11:17:07"
 blogger:

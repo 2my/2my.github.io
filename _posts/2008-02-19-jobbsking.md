@@ -1,7 +1,7 @@
 ---
 title: "Jobbsøking"
 categories: [2me]
-layout: "post"
+layout: "posts"
 date: "2008-02-19 10:58:00"
 updated: "2008-09-05 11:11:22"
 blogger:

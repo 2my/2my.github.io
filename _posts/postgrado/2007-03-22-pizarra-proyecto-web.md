@@ -1,7 +1,7 @@
 ---
 title: "Pizarra: proyecto web"
 categories: [proyecto]
-layout: "post"
+layout: "posts"
 date: "2007-03-22 16:20:00"
 updated: "2007-03-26 21:14:13"
 blogger:

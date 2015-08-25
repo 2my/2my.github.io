@@ -1,7 +1,7 @@
 ---
 title: "Takeaway, Secrets of the world's best designers and illustrators"
 categories: [design]
-layout: "post"
+layout: "posts"
 date: "2010-01-15 09:20:00"
 updated: "2010-01-15 09:20:19"
 blogger:

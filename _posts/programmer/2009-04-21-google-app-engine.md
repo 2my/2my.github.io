@@ -1,7 +1,7 @@
 ---
 title: "Google App Engine"
 categories: [DotMe]
-layout: "post"
+layout: "posts"
 date: "2009-04-21 18:19:00"
 updated: "2009-04-22 20:16:07"
 blogger:

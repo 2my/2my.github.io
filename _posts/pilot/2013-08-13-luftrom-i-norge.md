@@ -1,7 +1,7 @@
 ---
 title: "Luftrom i Norge"
 categories: [paragliding]
-layout: "post"
+layout: "posts"
 date: "2013-08-13 07:50:00"
 updated: "2013-08-13 07:50:47"
 blogger:

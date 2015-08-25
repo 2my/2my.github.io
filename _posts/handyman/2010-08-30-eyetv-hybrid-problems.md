@@ -1,7 +1,7 @@
 ---
 title: "EyeTV Hybrid problems"
 categories: [mac]
-layout: "post"
+layout: "posts"
 date: "2010-08-30 12:58:00"
 updated: "2010-08-30 12:58:54"
 blogger:

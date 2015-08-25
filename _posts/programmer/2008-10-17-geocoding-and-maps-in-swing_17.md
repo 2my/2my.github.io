@@ -1,7 +1,7 @@
 ---
 title: "GeoCoding and maps in Swing"
 categories: 
-layout: "post"
+layout: "posts"
 date: "2008-10-17 10:33:00"
 updated: "2008-10-17 10:33:00"
 blogger:

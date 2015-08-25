@@ -1,7 +1,7 @@
 ---
 title: "Meta-tagging files"
 categories: [dotme]
-layout: "post"
+layout: "posts"
 date: "2008-02-18 14:46:00"
 updated: "2008-03-07 12:22:20"
 blogger:

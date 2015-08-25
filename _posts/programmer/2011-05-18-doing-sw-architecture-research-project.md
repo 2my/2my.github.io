@@ -1,7 +1,7 @@
 ---
 title: "Doing SW Architecture / Research Project"
 categories: 
-layout: "post"
+layout: "posts"
 date: "2011-05-18 09:21:00"
 updated: "2011-05-18 09:21:57"
 blogger:

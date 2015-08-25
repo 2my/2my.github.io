@@ -1,7 +1,7 @@
 ---
 title: "Scala - learning notes"
 categories: 
-layout: "post"
+layout: "posts"
 date: "2009-11-26 12:51:00"
 updated: "2010-05-16 09:59:13"
 blogger:

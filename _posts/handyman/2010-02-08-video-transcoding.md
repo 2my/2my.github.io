@@ -1,7 +1,7 @@
 ---
 title: "Video transcoding"
 categories: [mac]
-layout: "post"
+layout: "posts"
 date: "2010-02-08 23:40:00"
 updated: "2010-02-17 08:32:51"
 blogger:

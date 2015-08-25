@@ -1,7 +1,7 @@
 ---
 title: "Voss og veko"
 categories: [travel]
-layout: "post"
+layout: "posts"
 date: "2009-06-24 09:26:00"
 updated: "2010-09-28 09:54:52"
 blogger:

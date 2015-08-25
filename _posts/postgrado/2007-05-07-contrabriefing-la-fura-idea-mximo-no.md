@@ -1,7 +1,7 @@
 ---
 title: "contrabriefing-la-fura-idea-mximo-no"
 categories: [proyecto]
-layout: "post"
+layout: "posts"
 date: "2007-05-07 15:17:00"
 updated: "2007-05-09 00:07:56"
 blogger:

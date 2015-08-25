@@ -1,7 +1,7 @@
 ---
 title: "Proyecto web"
 categories: [proyecto]
-layout: "post"
+layout: "posts"
 date: "2007-03-22 12:32:00"
 updated: "2007-03-22 12:55:10"
 blogger:

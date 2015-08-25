@@ -1,7 +1,7 @@
 ---
 title: "Testing tricks"
 categories: [testing]
-layout: "post"
+layout: "posts"
 date: "2009-11-16 10:22:00"
 updated: "2009-11-26 10:09:03"
 blogger:

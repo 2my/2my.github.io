@@ -1,7 +1,7 @@
 ---
 title: "Hjemmesnekring"
 categories: [home]
-layout: "post"
+layout: "posts"
 date: "2009-01-10 10:29:00"
 updated: "2011-02-03 20:06:25"
 blogger:

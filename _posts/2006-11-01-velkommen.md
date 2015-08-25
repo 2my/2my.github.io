@@ -1,7 +1,7 @@
 ---
 title: "Velkommen!"
 categories: [2my]
-layout: "post"
+layout: "posts"
 date: "2006-11-01 17:23:00"
 updated: "2006-11-05 20:31:08"
 blogger:

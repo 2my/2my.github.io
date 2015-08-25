@@ -1,6 +1,6 @@
 ---
 title: "Ringetone med kontakt på iPhone"
-layout: "post"
+layout: "posts"
 date: "2010-12-20 21:20:00"
 updated: "2010-12-20 21:20:07"
 blogger:

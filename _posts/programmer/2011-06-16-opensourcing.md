@@ -1,7 +1,7 @@
 ---
 title: "OpenSourcing"
 categories: 
-layout: "post"
+layout: "posts"
 date: "2011-06-16 10:57:00"
 updated: "2011-06-17 07:21:44"
 blogger:

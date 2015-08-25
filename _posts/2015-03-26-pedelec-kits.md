@@ -1,7 +1,7 @@
 ---
 title: “Pedelec Kits“
 categories: [maker bike]
-layout: "post"
+layout: "posts"
 ---
 
 Kortversjon av [lover][lover]:

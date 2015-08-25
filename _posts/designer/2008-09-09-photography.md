@@ -1,7 +1,7 @@
 ---
 title: "Photography"
 categories: [photo]
-layout: "post"
+layout: "posts"
 date: "2008-09-09 08:38:00"
 updated: "2008-09-29 18:29:39"
 blogger:

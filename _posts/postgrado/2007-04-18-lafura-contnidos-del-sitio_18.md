@@ -1,7 +1,7 @@
 ---
 title: "Lafura - contenidos del sitio"
 categories: [proyecto]
-layout: "post"
+layout: "posts"
 date: "2007-04-18 10:40:00"
 updated: "2007-05-09 14:59:56"
 blogger:

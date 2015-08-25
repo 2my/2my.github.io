@@ -1,7 +1,7 @@
 ---
 title: "Lafura - ejemplos"
 categories: [proyecto]
-layout: "post"
+layout: "posts"
 date: "2007-04-18 10:41:00"
 updated: "2007-05-07 15:40:32"
 blogger:

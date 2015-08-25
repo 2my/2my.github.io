@@ -1,7 +1,7 @@
 ---
 title: "PDF Rendering"
 categories: [tg]
-layout: "post"
+layout: "posts"
 date: "2008-07-09 15:07:00"
 updated: "2008-08-04 07:49:50"
 blogger:

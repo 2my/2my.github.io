@@ -1,6 +1,6 @@
 ---
 title: "elsinor.info"
-layout: "post"
+layout: "posts"
 date: "2007-05-09 15:00:00"
 updated: "2007-05-09 15:02:24"
 blogger:

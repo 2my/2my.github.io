@@ -1,7 +1,7 @@
 ---
 title: "Travel check-list"
 categories: [travel]
-layout: "post"
+layout: "posts"
 date: "2007-01-01 21:22:00"
 updated: "2008-01-17 20:24:48"
 blogger:

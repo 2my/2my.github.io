@@ -1,7 +1,7 @@
 ---
 title: "Tidsklemt og faglig skjerpa"
 categories: 
-layout: "post"
+layout: "posts"
 date: "2012-11-06 22:44:00"
 updated: "2012-11-08 08:49:30"
 blogger:

@@ -1,7 +1,7 @@
 ---
 title: "Ønskelister"
 categories: [2buy]
-layout: "post"
+layout: "posts"
 date: "2007-01-01 22:05:00"
 updated: "2008-03-07 12:22:58"
 blogger:

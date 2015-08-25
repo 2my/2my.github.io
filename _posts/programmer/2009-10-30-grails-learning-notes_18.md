@@ -1,7 +1,7 @@
 ---
 title: "Grails - learning notes"
 categories: 
-layout: "post"
+layout: "posts"
 date: "2009-10-30 07:28:00"
 updated: "2009-11-26 10:38:31"
 blogger:

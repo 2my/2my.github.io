@@ -1,7 +1,7 @@
 ---
 title: "Usuario: marketing"
 categories: [proyecto]
-layout: "post"
+layout: "posts"
 date: "2007-05-07 18:32:00"
 updated: "2007-05-09 17:31:42"
 blogger:

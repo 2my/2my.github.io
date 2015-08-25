@@ -1,7 +1,7 @@
 ---
 title: "Meetup om testing i Framsia"
 categories: 
-layout: "post"
+layout: "posts"
 date: "2011-05-24 19:40:00"
 updated: "2011-05-24 19:40:46"
 blogger:

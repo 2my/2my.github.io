@@ -1,7 +1,7 @@
 ---
 title: "Såpebobler"
 categories: [barn]
-layout: "post"
+layout: "posts"
 date: "2012-05-20 20:19:00"
 updated: "2012-05-20 20:19:31"
 blogger:

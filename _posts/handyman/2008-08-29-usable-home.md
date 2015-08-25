@@ -1,7 +1,7 @@
 ---
 title: "Usable home"
 categories: [home]
-layout: "post"
+layout: "posts"
 date: "2008-08-29 20:54:00"
 updated: "2008-09-08 11:34:44"
 blogger:
