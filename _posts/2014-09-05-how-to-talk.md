@@ -4,7 +4,7 @@ categories: [barn book]
 layout: "posts"
 ---
 
-# How to Talk so Kids Will Listen and Listen so Kids Will Talk
+Summary of book "How to Talk so Kids Will Listen and Listen so Kids Will Talk"
 
 ## Distress and Dealing With Strong Feelings
 **Listen** with full attention.  

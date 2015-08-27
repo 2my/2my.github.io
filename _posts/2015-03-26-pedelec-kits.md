@@ -2,7 +2,6 @@
 title: Pedelec Kits
 categories: [maker bike]
 layout: "posts"
-lang: "no"
 ---
 
 Kortversjon av [lover][lover]:
