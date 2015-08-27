@@ -12,7 +12,7 @@ Assignments were delivered via blog-posts on [weebly][weebly].
 ## Design Process (Week 1)
 gap → (sense gap) → (define problem) → (explore alternatives) → (select plan) → plan  
 Usually iterate through process.  
-![Design process]({{ site.url }}/assets/2014-06-10-design-process.png)
+![Design process]({{ site.baseurl }}/assets/2014-06-10-design-process.png)
 
 ### Finding Gaps
 List annoyances that has occurred to me the last days.  
@@ -46,7 +46,7 @@ How to identify needs
 	5 Establish relative importance of needs
 
 ### Types of needs
-![example function diagram]({{ site.url }}/assets/2014-06-10-types-of-needs.jpg)
+![example function diagram]({{ site.baseurl }}/assets/2014-06-10-types-of-needs.jpg)
 
 ## Problem Statement Articulated Using "5 Whys" (Week 2)
 	why ↑ generalize
@@ -60,7 +60,7 @@ A function diagram decomposes functions into flows of:
 	* Materials
 	* Signals
 
-![example function diagram]({{ site.url }}/assets/2014-06-10-function-diagram-example.png)
+![example function diagram]({{ site.baseurl }}/assets/2014-06-10-function-diagram-example.png)
 
 Pick 2-3 functions.  
 Example: "Divide from bulk":  
