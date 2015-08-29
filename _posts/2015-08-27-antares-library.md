@@ -4,7 +4,6 @@ categories: [books]
 layout: "posts"
 ---
 
-<div class="col-md-6" >
 _Kobo Welcome Guide
 _kobotouch_quickstart
 _kobotouch_userguide_en
@@ -47,9 +46,6 @@ iOS Technology Overview
 iPhone_GUI.psd
 Java Concurrency in Practice - Brian Goetz
 JavaScript_The_Definitive_Guide_Sixth_Edition
-</div>
-
-<div class="col-md-6" >
 JavaScript_The_Good_Parts
 Kobo Read On
 Lean_UX
@@ -93,4 +89,3 @@ The Swift Programming Language
 the-cucumber-book_p1_0
 UML Distilled - A Brief Guide to the Standard Object Modeling Language (3rd Edition) - Fowler, Martin
 Using Swift with Cocoa and Objective-C
-</div>
