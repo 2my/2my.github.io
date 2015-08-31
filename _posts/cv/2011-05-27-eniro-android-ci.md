@@ -1,11 +1,12 @@
 ---
-title: Android CI (Project)
-categories: [cv, project]
+title: Eniro - Android CI (Project)
+categories: [cv, project, customer]
 layout: "posts"
 ---
 
-2011.06 - 2011.06		«Android CI»
-Eniro
+Eniro er et ledende søkeselskap med virksomhet i Skandinavia og Polen. Driver Gule Sider mm.
+
+2011.05.27 - 2011.06.23		«Android CI»
 Utviklingsarkitekt.
 Bygge Eniros Android-apper i Bamboo
 Beskrivelse: Eniros suite av Android-apper ble bygd manuelt med Eclipse og man var avhengig av 1 utvikler og flere manuelle modifikasjoner. De ønsket å bygge disse prosjektene automatisk på sin Bamboo byggetjener.
