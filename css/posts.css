@@ -33,3 +33,19 @@ img[alt=pic3col] {
     width: 200px;
     padding: 5px;
 }
+
+.PageNavigation {
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
