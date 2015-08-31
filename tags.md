@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Fastr Blog
+layout: bootstrap
+title: Categories
 ---
 <h2>Categories:</h2>
 <ul>
