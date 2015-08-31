@@ -1,5 +1,5 @@
 ---
-title: «25 hours» (Project)
+title: «EMDS 2» (Project)
 categories: [cv, project]
 layout: "posts"
 ---
