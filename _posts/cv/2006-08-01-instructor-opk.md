@@ -1,6 +1,6 @@
 ---
 title: Instruktør i OPK
-categories: [cv, jobb]
+categories: [cv]
 layout: "posts"
 ---
 

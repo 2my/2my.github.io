@@ -1,5 +1,5 @@
 ---
-title: «Partitorg» (Project)
+title: «Partitorg 2» (Project)
 categories: [cv, project]
 layout: "posts"
 ---

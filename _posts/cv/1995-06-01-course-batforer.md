@@ -1,5 +1,5 @@
 ---
-title: Truckfører
+title: Båtfører
 categories: [cv, study, certification]
 layout: "posts"
 ---

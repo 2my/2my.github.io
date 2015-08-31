@@ -1,5 +1,5 @@
 ---
-title: Omega Kielderstyre
+title: Vernepliktig VO-ass
 categories: [cv, employer]
 layout: "posts"
 ---

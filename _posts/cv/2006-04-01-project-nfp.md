@@ -1,5 +1,5 @@
 ---
-title: «Nettskolen foran passord» (Project)
+title: Nettskolen foran passord (Project)
 categories: [cv, project]
 layout: "posts"
 ---
