@@ -1,6 +1,6 @@
 ---
 title: Oracle SOA Suite 11g Certified Implementation Specialist
-categories: [cv study certification]
+categories: [cv, study, certification]
 layout: "posts"
 ---
 

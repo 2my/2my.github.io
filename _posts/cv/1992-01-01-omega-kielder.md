@@ -1,6 +1,6 @@
 ---
 title: Omega Kielderstyre
-categories: [cv employer]
+categories: [cv, employer]
 layout: "posts"
 ---
 

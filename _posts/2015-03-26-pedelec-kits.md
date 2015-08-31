@@ -1,6 +1,6 @@
 ---
 title: Pedelec Kits
-categories: [maker bike]
+categories: [maker, bike]
 layout: "posts"
 ---
 

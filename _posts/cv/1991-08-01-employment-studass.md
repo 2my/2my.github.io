@@ -1,6 +1,6 @@
 ---
 title: Studentassistent
-categories: [cv employer]
+categories: [cv, employer]
 layout: "posts"
 ---
 

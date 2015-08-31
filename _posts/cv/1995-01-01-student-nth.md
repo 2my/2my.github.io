@@ -1,6 +1,6 @@
 ---
 title: NTH
-categories: [cv study]
+categories: [cv, study]
 layout: "posts"
 ---
 

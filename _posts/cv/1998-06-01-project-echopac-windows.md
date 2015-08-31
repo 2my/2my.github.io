@@ -1,6 +1,6 @@
 ---
 title: EchoPac på Windows (Project)
-categories: [cv project]
+categories: [cv, project]
 layout: "posts"
 ---
 

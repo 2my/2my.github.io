@@ -1,6 +1,6 @@
 ---
 title: Eniro (Kunde)
-categories: [cv customer]
+categories: [cv, customer]
 layout: "posts"
 ---
 

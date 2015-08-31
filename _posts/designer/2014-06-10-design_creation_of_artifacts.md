@@ -1,6 +1,6 @@
 ---
 title: "Design: Creation of Artifacts in Society"
-categories: [design study]
+categories: [design, study]
 layout: "posts"
 date: "2014-06-10 10:11:12"
 ---

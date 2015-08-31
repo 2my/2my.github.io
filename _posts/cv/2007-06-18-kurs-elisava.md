@@ -1,6 +1,6 @@
 ---
 title: Postgrado ved Elisava
-categories: [cv study]
+categories: [cv, study]
 layout: "posts"
 ---
 

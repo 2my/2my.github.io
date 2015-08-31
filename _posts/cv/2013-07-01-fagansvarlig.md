@@ -1,6 +1,6 @@
 ---
 title: Fagansvarlig frontend
-categories: [cv project]
+categories: [cv, project]
 layout: "posts"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Truckfører
-categories: [cv study certification]
+categories: [cv, study, certification]
 layout: "posts"
 ---
 

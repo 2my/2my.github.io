@@ -1,6 +1,6 @@
 ---
 title: «SmartFinans 2» (Project)
-categories: [cv project]
+categories: [cv, project]
 layout: "posts"
 ---
 

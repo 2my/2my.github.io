@@ -1,6 +1,6 @@
 ---
 title: Ansatt i NRD
-categories: [cv employer]
+categories: [cv, employer]
 layout: "posts"
 ---
 

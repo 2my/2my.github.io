@@ -1,6 +1,6 @@
 ---
 title: "How to Talk so Kids Will Listen and Listen so Kids Will Talk"
-categories: [barn book]
+categories: [barn, book]
 layout: "posts"
 ---
 

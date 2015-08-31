@@ -1,6 +1,6 @@
 ---
 title: "No-Drama Discipline"
-categories: [barn book]
+categories: [barn, book]
 layout: "posts"
 ---
 

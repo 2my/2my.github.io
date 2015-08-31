@@ -1,6 +1,6 @@
 ---
 title: Elev Fagerlia
-categories: [cv study certification]
+categories: [cv, study, certification]
 layout: "posts"
 ---
 

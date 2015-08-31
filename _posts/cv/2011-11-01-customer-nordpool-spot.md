@@ -1,6 +1,6 @@
 ---
 title: Nord Pool Spot AS (Kunde)
-categories: [cv customer]
+categories: [cv, customer]
 layout: "posts"
 ---
 

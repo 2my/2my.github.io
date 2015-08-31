@@ -1,6 +1,6 @@
 ---
 title: Functional Programming Principles in Scala
-categories: [cv study]
+categories: [cv, study]
 layout: "posts"
 ---
 

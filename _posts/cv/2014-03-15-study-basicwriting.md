@@ -1,6 +1,6 @@
 ---
 title: Crafting an Effective Writer
-categories: [cv study]
+categories: [cv, study]
 layout: "posts"
 ---
 

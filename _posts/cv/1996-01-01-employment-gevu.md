@@ -1,6 +1,6 @@
 ---
 title: Ansatt i GE Vingmed Ultrasound
-categories: [cv employer]
+categories: [cv, employer]
 layout: "posts"
 ---
 

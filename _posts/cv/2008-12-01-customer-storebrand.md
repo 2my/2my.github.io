@@ -1,6 +1,6 @@
 ---
 title: Storebrand (Kunde)
-categories: [cv customer]
+categories: [cv, customer]
 layout: "posts"
 ---
 

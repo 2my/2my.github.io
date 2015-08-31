@@ -1,6 +1,6 @@
 ---
 title: Hauge&Furnes
-categories: [cv employer]
+categories: [cv, employer]
 layout: "posts"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Week 7 (Design: Creation of Artifacts...)"
-categories: [design study]
+categories: [design, study]
 layout: "posts"
 lang: "en"
 ---

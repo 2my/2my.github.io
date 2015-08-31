@@ -1,6 +1,6 @@
 ---
 title: Russeformann
-categories: [cv employer]
+categories: [cv, employer]
 layout: "posts"
 ---
 

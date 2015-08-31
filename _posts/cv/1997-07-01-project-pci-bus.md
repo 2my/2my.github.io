@@ -1,6 +1,6 @@
 ---
 title: «PCI-buss» (Project)
-categories: [cv project]
+categories: [cv, project]
 layout: "posts"
 ---
 

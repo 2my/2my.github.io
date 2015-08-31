@@ -1,6 +1,6 @@
 ---
 title: «BP» (Project)
-categories: [cv project]
+categories: [cv, project]
 layout: "posts"
 ---
 

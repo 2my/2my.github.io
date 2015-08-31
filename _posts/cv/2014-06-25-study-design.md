@@ -1,6 +1,6 @@
 ---
 title: Design - Creation of Artifacts in Society
-categories: [cv study]
+categories: [cv, study]
 layout: "posts"
 ---
 

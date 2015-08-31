@@ -1,6 +1,6 @@
 ---
 title: Human-Computer Interaction
-categories: [cv study]
+categories: [cv, study]
 layout: "posts"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Principles of Reactive Programming
-categories: [cv study]
+categories: [cv, study]
 layout: "posts"
 ---
 

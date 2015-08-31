@@ -1,6 +1,6 @@
 ---
 title: «Sesam 6» (Project)
-categories: [cv project]
+categories: [cv, project]
 layout: "posts"
 ---
 

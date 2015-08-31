@@ -1,6 +1,6 @@
 ---
 title: «25 hours» (Project)
-categories: [cv project]
+categories: [cv, project]
 layout: "posts"
 ---
 

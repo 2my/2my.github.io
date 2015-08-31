@@ -1,6 +1,6 @@
 ---
 title: SIV Turkey
-categories: [cv study flying]
+categories: [cv, study, flying]
 layout: "posts"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "MacOS + Brauniger IQ Compeo"
-categories: [software checklist, paragliding]
+categories: [software, checklist, paragliding]
 layout: "posts"
 date: "2013-06-08 20:25:00"
 updated: "2013-08-13 07:47:59"

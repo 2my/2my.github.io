@@ -1,6 +1,6 @@
 ---
 title: «Nettskolen foran passord» (Project)
-categories: [cv project]
+categories: [cv, project]
 layout: "posts"
 ---
 

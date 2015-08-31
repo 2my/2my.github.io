@@ -1,6 +1,6 @@
 ---
 title: jBoss 7 (Project)
-categories: [cv project]
+categories: [cv, project]
 layout: "posts"
 ---
 

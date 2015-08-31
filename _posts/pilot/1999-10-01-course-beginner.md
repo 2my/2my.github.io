@@ -1,6 +1,6 @@
 ---
 title: Nybegynnerkurs Paragliding
-categories: [cv study flying]
+categories: [cv, study, flying]
 layout: "posts"
 ---
 

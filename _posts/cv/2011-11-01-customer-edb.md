@@ -1,6 +1,6 @@
 ---
 title: EDB Ergo Goup (Kunde)
-categories: [cv customer]
+categories: [cv, customer]
 layout: "posts"
 ---
 

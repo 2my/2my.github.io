@@ -1,6 +1,6 @@
 ---
 title: «Dong til DetP» (Project)
-categories: [cv project]
+categories: [cv, project]
 layout: "posts"
 ---
 

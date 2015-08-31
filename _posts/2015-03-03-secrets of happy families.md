@@ -1,6 +1,6 @@
 ---
 title: Secrets of Happy Families
-categories: [barn book]
+categories: [barn, book]
 layout: "posts"
 ---
 

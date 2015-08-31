@@ -1,6 +1,6 @@
 ---
 title: Acro-seminar og NM
-categories: [cv study flying]
+categories: [cv, study, flying]
 layout: "posts"
 ---
 
