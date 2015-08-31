@@ -2,28 +2,17 @@
 layout: bootstrap
 title: Categories
 ---
-<h2>Categories:</h2>
-<ul>
+## Categories:
 {% for category in site.categories %}
-  <li><a href="#{{ category | first }}">{{ category | first }}</a></li>
+  * [{{ category | first }}](#{{ category | first }})
 {% endfor %}
-</ul>
-<h2>Articles by Category:</h2>
-<ul>
+
+## Articles by Category:
 {% for category in site.categories %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
-    <ul>
-    {% for posts in category %}
-      {% for post in posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
+### [{{ category | first }}]({{ category | first }})
+  {% for posts in category %}
+    {% for post in posts %}
+	* [{{ post.title }}]({{ post.url }})
     {% endfor %}
-    </ul>
-  </li>
+  {% endfor %}
 {% endfor %}
-</ul>
-{% for post in site.categories.quickstart %}
-<!-- h2><a href=".{{ post.url }}">{{ post.title }}</a></h2 -->
-<!-- {{ post.content }} -->
-{% endfor %}
-Page generated: {{ site.time | date_to_string }}
