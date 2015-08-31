@@ -7,7 +7,7 @@ layout: "posts"
 Nord Pool Spot AS driver Europas første og fremste kraftbørs for områdene Norden, Baltikum og UK.
 Tommy var leid inn i 3,5 år, prosjektene listes under.
 
-2011.11 - 2015.05	80%
+2011.11.07 - 2015.05.31	80%
 Nord Pool Spot
 SW-arkeolog, utvikler og tester, utviklingsarkitekt, løsningsarkitekt.
 	EMDS
@@ -18,6 +18,8 @@ Beskrivelse: EMDS er samlenavnet på systemene som utvikles og drives i avdeling
 	* Feed Manager: Cocoon web applikasjon for konfigurasjon av datautsending.
 	* FtpApp: java prosess som utveksler filer på ftp. Overvåkes og restartes automatisk.
 	* VPP: Sving MVC applikasjon for nominering på videresalgs-kontrakter.
+EMDS var gjennom flere prosjekter og utslipp i perioden.
+
 Tommy tok over og releasa Bænkers 1.0, og gjorde 3 utslipp til med utvidelser av overvåkingen.
 I Feed Manager implementerte han UI og forretningslogikk for å koble produkter og publiseringskanaler.
 VPP-utviklerne var ute, så han fant selv ut av applikasjon og datamodell, oppdaterte database og fiksa problem.
@@ -30,4 +32,5 @@ Oppgraderte NpSia-base fra jBoss 4 til jBoss 7.
 Lagde en wrapper som gjorde at vanlige database-tabeller kunne vises i tidsserie-modellen.
 Spesifiserte, designa og implementerte rapportering av overføringskapasitet (ntc) til Entso-E (EU).
 Var med å designe, implementere og teste rapportering av data fra kraftprodusenter, nettoperatører og kraftbørsen  til Entso-E i henhold til EUs «Transparency Regulation» for kraftmarkedene. Ansvarlig for generisk internt dokumentformat og transformasjon av dette til standardisert format. Samlet krav, designet og implementerte komponenter for å  rapportere day-ahead prices, reservoir filling, unavailability og net transfer capacity (intra-day, day-ahead og forecast).
-Teknologi: Java, Scala, Groovy, JavaScript med json og jQuery UI, rest­klient, xml, xsd, xmlbeans, Velocity, Java trådhåndtering (concurrency), ftp, Swing, JavaFx, Spring, jBoss4, JMS, Cocoon, JDBC, Sybase, sql, Ant, Maven, UML, BPMN, Confluence med Gliffy, MarkDown og Entso­E bransjestandarder: ESS, ECAN og rammeverk for rapportering ihht EUs Transparency Regulation.
+
+Teknologi: Java, Scala, Groovy, JavaScript, json, jQuery UI, rest, xml, xsd, xmlbeans, Velocity, Java concurrency, ftp, Swing, JavaFx, Spring, jBoss 4 og 7, JMS, Cocoon, JDBC, Sybase, sql, Entso­E ESS, ECAN og andre tilknytta EUs Transparency Regulation, Ant, Maven, UML, BPMN, Confluence med Gliffy og MarkDown.
