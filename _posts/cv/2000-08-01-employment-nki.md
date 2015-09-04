@@ -11,13 +11,13 @@ NKI er norges eldste korrespondanseskole, og var først i verden med studier på
 
 Tommy var Systemansvarlig fra 2006, Ledende programmerer før det.
 
-Arkitekt, ledende programmerer, systemansvarlig, prosjektleder.
+Arkitekt, ledende programmerer, systemansvarlig.
 
-Beskrivelse: Utvikling av NKIs webapplikasjoner:
-	* www.nettskolen.com: studentportal, knyttet til administrativt system (STAS).
-	* www.nki.no: produktkatalog på nett, knyttet til administrativt system (STAS).
+Beskrivelse: Utviklingsavdelingen til NKI utviklet blandt annet webapplikasjonene:
+	* www.nettskolen.com: student og lærerportal.
+	* www.nki.no: produktkatalog på nett.
 Begge disse hadde mye cms-funksjonalitet i tillegg til integrasjon med det studentadministrative systemet (STAS). Systemene gikk gjennom flere utslipp og teknologiskifter.
-Tommy var med og utviklet disse, gjorde mye av arkitekturarbeidet med støtte og opplæring av uerfarne utviklere som en viktig oppgave.
+Tommy var med og utviklet disse og gjorde mye av arkitekturarbeidet der støtte og opplæring av uerfarne utviklere var en viktig oppgave.
 
 Teknologi til 2006: Java, servlet, web-services med Axis, Xsql, Xml+Xsl, JDBC, Sql, PL/Sql, Ant, Apache Cocoon og Lenya.
 
