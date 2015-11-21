@@ -13,30 +13,15 @@ blogger:
 
 Nadeem "In the Spotlight", "My Sunshine", "Stepping Stones", "Mummy, Daddy and Me", se http://www.washingtongreen.co.uk/artists/nadeem_chughtai/collection.asp
 
-### Lego
-Gamle ting (lenker til BrickLink):
 
-	* 1 stk rotation sensor (<a href="http://www.bricklink.com/catalogItem.asp?S=9756-1">9756</a>)
-	* 1 stk Motor (<a href="http://www.bricklink.com/search.asp?q=71427c01">71427</a>&nbsp;eller&nbsp;<a href="http://www.bricklink.com/search.asp?q=43362c01">43362</a>)
-	* Ultimate Builders Set (<a href="http://www.bricklink.com/search.asp?q=3800">3800</a>) 
-
-Eller annet med mest mulig av: tannhjul, <a href="http://www.bricklink.com/search.asp?q=9641-1">pneumatikk</a>, <a href="http://www.bricklink.com/catalogItem.asp?S=970040-1">larveføtter</a>, kjede. Eller kanskje Technology Resource Set (<a href="http://www.bricklink.com/search.asp?q=9609-1">9609-1</a>).
-
-
-### Tilbehør til Dremel
-Jeg har modellen 8000, her er noen jeg tenker på (dremel nummererer dem):
-
-	* Vinkelforsats (575)
-	* trekutt: 542 el SC544, 546 med minisag-forsats nr. 670
-	* plast: SC476
-	* Multikuttefresen 561 kutter i tre, plast, glassfiber, gipsvegger, laminater og vinylpaneler
-
-### Diverse
-
-Her er en <a href="http://www.delicious.com/ParaTom/2buy">lenkesamling</a> med mer... 
+## Verktøy
+Minste størrelser trebor: 1 til 2 mm
+Filer for tre og metall
+Bok: gjøre det selv
 
 ### Bøker:
 
+	* "Gjør det selv oppussing : snekring : reparasjoner" av Dag Thorstensen mfl. (http://www.bokklubben.no/SamboWeb/produkt.do?produktId=1320401) Eller tilsvarende
 	* "The Drawing on the Right Side of the Brain Starter Kit"
 	* "How to Speak How to Listen"
 	* "How to Read a Book: The Classic Guide to Intelligent Reading (A Touchstone book)"
@@ -48,8 +33,29 @@ Siteguide alpene:  www.media-montana.de
 
 Gavekort Amazon 
 
+
+### Tilbehør til Dremel
+Jeg har modellen 8000, her er noen jeg tenker på (dremel nummererer dem):
+
+	* Vinkelforsats (575)
+	* trekutt: 542 el SC544, 546 med minisag-forsats nr. 670
+	* plast: SC476
+	* Multikuttefresen 561 kutter i tre, plast, glassfiber, gipsvegger, laminater og vinylpaneler
+
+### Lego
+Gamle ting (lenker til BrickLink):
+
+	* 1 stk rotation sensor (<a href="http://www.bricklink.com/catalogItem.asp?S=9756-1">9756</a>)
+	* 1 stk Motor (<a href="http://www.bricklink.com/search.asp?q=71427c01">71427</a>&nbsp;eller&nbsp;<a href="http://www.bricklink.com/search.asp?q=43362c01">43362</a>)
+	* Ultimate Builders Set (<a href="http://www.bricklink.com/search.asp?q=3800">3800</a>) 
+
+Eller annet med mest mulig av: tannhjul, <a href="http://www.bricklink.com/search.asp?q=9641-1">pneumatikk</a>, <a href="http://www.bricklink.com/catalogItem.asp?S=970040-1">larveføtter</a>, kjede. Eller kanskje Technology Resource Set (<a href="http://www.bricklink.com/search.asp?q=9609-1">9609-1</a>).
+
+### Diverse
+
+Her er en <a href="http://www.delicious.com/ParaTom/2buy">lenkesamling</a> med mer... 
+
 ### Musikk:
-	* Royal Crown Revue: Hey Pachuco (fra fx soundtrack til "The Mask")
 	* Masada: Live at Tonic 2001
 	* Gavekort iTunes 
 
@@ -57,8 +63,7 @@ Gavekort Amazon
 	* Arduino kit, fx http://www.robonor.no/mag/default/arduino/for-nybegynnere/arduino-inventors-kit-koffert.html
 	* Roborally
 	* Lamy Dialog 3 Fountain Pen Medium Nib
-	* Olloclip 4-in-1 linser for iPhone 5S
-	* DODOCASE FOLIO eller Booqpad agenda for iPad mini
+	* Moleskine case med notebook, DODOCASE FOLIO eller Booqpad agenda for iPad mini
 	* Sykkelmotor (<a href="http://www.bikeshop.no/Sykkel/Komplette-sykler/Elektrisk-Sykkel/Pedelec/Pedelec-Elektrisk-Sykkel-26-Kit-Gj%C3%B8r-om-din-26-sykkel-til-en-el-sykkel-650001-p0000018459">pedlec</a>).
 
 ### RC, finnes på fx http://shop.smallsize.no/:

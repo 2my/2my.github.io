@@ -13,10 +13,12 @@ Medisinskap - låsbart, men ikke til å skru på vegg.
 
 Barnepass
 
+Slepekrok til Toyotaen
+
 
 ### Barna ønsker seg:
 
-	* tegnepapirrull
+	* 
 
 Silkeundertøy (trøye og stillongs), se:
 
@@ -26,13 +28,17 @@ Silkeundertøy (trøye og stillongs), se:
 ### Sverre ønsker seg:
 
 	* Lego...
+	* plusspluss
+	* verktøykasse, snekkerbukse
 	* Whatever StarWars faller i smak
-	* Bruker nå klær str 6år, vintersko str 30.
+	* Bruker nå klær str 122, vintersko str 32.
+	* Skisko
 
 ### Ada ønsker seg:
 
-	* Bruker nå klær str 110/5år, vintersko str 28.
+	* Bruker nå klær str 122 / 6år, vintersko str 31.
 	* Prinsesseting faller i smak
-	* En liten musikkspiller (liker å danse/hoppe)
+	* En liten musikkspiller
+	* Skisko
 
 .
