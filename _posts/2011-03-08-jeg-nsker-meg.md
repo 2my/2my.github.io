@@ -57,14 +57,15 @@ Her er en <a href="http://www.delicious.com/ParaTom/2buy">lenkesamling</a> med m
 
 ### Musikk:
 	* Masada: Live at Tonic 2001
+	* Adam Baldych + Yaron Herman
 	* Gavekort iTunes 
 
 ### Dingser:
 	* Arduino kit, fx http://www.robonor.no/mag/default/arduino/for-nybegynnere/arduino-inventors-kit-koffert.html
 	* Roborally
 	* Lamy Dialog 3 Fountain Pen Medium Nib
-	* Moleskine case med notebook, DODOCASE FOLIO eller Booqpad agenda for iPad mini
-	* Sykkelmotor (<a href="http://www.bikeshop.no/Sykkel/Komplette-sykler/Elektrisk-Sykkel/Pedelec/Pedelec-Elektrisk-Sykkel-26-Kit-Gj%C3%B8r-om-din-26-sykkel-til-en-el-sykkel-650001-p0000018459">pedlec</a>).
+	* Moleskine case med notebook, DODOCASE FOLIO eller Booqpad agenda for iPad mini (http://www.adlibris.com/no/product.aspx?isbn=8867321587)
+	* Sykkelmotor pedlec (http://www.bikeshop.no/Sykkel/Komplette-sykler/Elektrisk-Sykkel/Pedelec/Pedelec-Elektrisk-Sykkel-26-Kit-Gj%C3%B8r-om-din-26-sykkel-til-en-el-sykkel-650001-p0000018459).
 
 ### RC, finnes på fx http://shop.smallsize.no/:
 	* Phoenix simulator with DX5e.
