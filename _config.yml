@@ -1,6 +1,6 @@
 name: 2my.sk
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-highlighter: pygments
+highlighter: rouge
 markdown: redcarpet
 
 redcarpet:

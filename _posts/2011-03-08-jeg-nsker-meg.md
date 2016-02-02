@@ -17,19 +17,18 @@ Nadeem "In the Spotlight", "My Sunshine", "Stepping Stones", "Mummy, Daddy and M
 ## Verktøy
 Minste størrelser trebor: 1 til 2 mm
 Filer for tre og metall
-Bok: gjøre det selv
+iFixit bit set (54-biters variant)
+
 
 ### Bøker:
 
-	* "Gjør det selv oppussing : snekring : reparasjoner" av Dag Thorstensen mfl. (http://www.bokklubben.no/SamboWeb/produkt.do?produktId=1320401) Eller tilsvarende
 	* "The Drawing on the Right Side of the Brain Starter Kit"
 	* "How to Speak How to Listen"
 	* "How to Read a Book: The Classic Guide to Intelligent Reading (A Touchstone book)"
 	* "Thinkertoys: A Handbook of Creative-Think​ing Techniques (2nd Edition)"
+	* Siteguide alpene:  www.media-montana.de
 
 Se liste på <a href="http://www.amazon.com/gp/registry/wishlist/JGDPEU594U0T?reveal=unpurchased&amp;filter=all&amp;sort=priority&amp;layout=standard&amp;x=12&amp;y=12">Amazon</a>. Helst ebøker 
-
-Siteguide alpene:  www.media-montana.de
 
 Gavekort Amazon 
 
