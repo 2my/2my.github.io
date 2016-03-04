@@ -18,6 +18,7 @@ Nadeem "In the Spotlight", "My Sunshine", "Stepping Stones", "Mummy, Daddy and M
 Minste størrelser trebor: 1 til 2 mm
 Filer for tre og metall
 iFixit bit set (54-biters variant)
+Bryne
 
 
 ### Bøker:
@@ -36,8 +37,7 @@ Gavekort Amazon
 ### Tilbehør til Dremel
 Jeg har modellen 8000, her er noen jeg tenker på (dremel nummererer dem):
 
-	* Vinkelforsats (575)
-	* trekutt: 542 el SC544, 546 med minisag-forsats nr. 670
+	* trekutt: 542 el SC544, 546 (har minisag-forsats nr. 670)
 	* plast: SC476
 	* Multikuttefresen 561 kutter i tre, plast, glassfiber, gipsvegger, laminater og vinylpaneler
 
