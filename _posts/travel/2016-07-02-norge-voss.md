@@ -6,6 +6,8 @@ date: "2016-07-02 11:52:00"
 updated: "2016-07-02 11:52:00"
 ---
 
+Vi er i Voss 14-16 juli
+
 Aktiviteter
 	* Klatrepark [vossactive][vossactive]
 	* Familierafting [vossactive][vossactive]

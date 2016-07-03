@@ -6,6 +6,8 @@ date: "2016-07-02 11:50:00"
 updated: "2016-07-02 11:50:00"
 ---
 
+Vi er i Dalen 11-13 juli
+
 Aktiviteter
     * Åmdals gruver
     * vest-telemark museum med sluseanlegg i småskala (ta med lekebåter)

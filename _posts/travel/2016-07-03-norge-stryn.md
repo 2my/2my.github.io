@@ -6,6 +6,8 @@ date: "2016-07-02 11:51:00"
 updated: "2016-07-02 11:51:00"
 ---
 
+Vi er i Stryn 17-19 juli
+
 
 Kommunekart: https://kommunekart.com/?funksjon=vispunkt&x=59.46014806814401&y=7.959087914787233&zoom=11&bakgrunnskart=0&kartlag=0833%3A%3A%3B&
 
