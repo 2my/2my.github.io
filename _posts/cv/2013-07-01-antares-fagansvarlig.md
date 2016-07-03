@@ -14,6 +14,6 @@ Tommy startet og drev prosesssen med å flytte Antares sine utviklingssystemer f
 
 Han fikk gjennomslag for 2 serier med fagmøter innenfor frontend, den første med tema web gui utvikling (html5, JavaScript, jQuery), den andre med tema mobil utvikling (PhoneGap, Testrammeverk, Android Native). Android native fagmøtene ble også workshop på JavaZone 2012, med glitrende tilbakemeldinger.
 
-Teknologi: Git, Subversion, BitBucket, Jira, Confluence, Heroku, Java, REST.
+Teknologi: Git, Subversion, BitBucket, Jira, Confluence, Heroku, Java, Groovy, Scala, REST.
 
 Hovedoppgaver og ansvar: Støtte ansattes faglige utvikling, sette faglig agenda for Antares og synliggjøre Antares eksternt.
