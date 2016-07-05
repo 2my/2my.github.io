@@ -10,8 +10,8 @@ Vi er i Voss 14-16 juli
 
 Aktiviteter
 
-	* Klatrepark [vossactive][vossactive]
-	* Familierafting [vossactive][vossactive]
+	* Klatrepark [vossactive][vossactive] (56 51 05 25)
+	* Familierafting [vossactive][vossactive] (56 51 05 25)
 	* Voss vind [vossvind][vossvind]
 	* Sykling: rundt Vangsvatne, til Tvindefossen, eller Rallarvegen fra Finse til Voss
 	* Riding + overnatting: http://www.fjosegard.no (990 26 282, 450 53 088)
