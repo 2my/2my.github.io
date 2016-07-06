@@ -30,11 +30,15 @@ Hytter: http://www.visitvoss.no/overnatting/hytter-og-leilegheiter
 Gardsovernatting i Voss Kommune http://rlb.no/gaard/kommune/1235
 
 * [Eenstunet][eenstunet]: 4 hus (5651 6834, 9959 7419)
+* http://www.aurotunet.no (95 10 94 14, 91 72 14 46)
+* [Hefte](http://m.finn.no/r/feriehus-hytteutleie/ad.html?finnkode=59695640)
+* http://www.kapteinsgarden.com/
 * [Skjelde Gård][skjelde]: 3 hus i andre enden av vannet (5651 4290, 992 53 486)
 * [Haugo][haugo] : sentrumsnært, pensjonat + 2 hytter (9756 2952)
-* [Brynjelsgard][brynjelsgard]
+* [Brynjelsgard][brynjelsgard] (915 61 088, 5651 6830, 413 10 080)
 * [Vossatunet][tunet]: 1 hus (5651 6387, 909 69 665)
 * [Stalheimsoy][stalheimsoy]: 2 storhytter nær Gudvangen
+
 
 Ulvik Kommune
 
