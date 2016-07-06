@@ -63,7 +63,7 @@ Vang
   [uppheim]: http://rlb.no/gaard/info/4106  "rlb for Uppheim"
   [sollia]: http://rlb.no/gaard/info/1135  "rlb for Sollia"
   [tunet]: http://rlb.no/accommodation/info/5413  "rlb for Vossatunet"
-  [eenstunet]: eenstunet.no  "eenstunet hjemmeside"
+  [eenstunet]: http://eenstunet.no  "eenstunet hjemmeside"
   [skjelde]: http://www.visitvoss.no/overnatting/skjelde-gard-p854303  "visitvoss skjelde"
   [haugo]: http://www.haugo.net  "Haugo hjemmeside"
   [stalheimsoy]: http://www.stalheimsoy.no  "Stalheimsoy hjemmeside"
