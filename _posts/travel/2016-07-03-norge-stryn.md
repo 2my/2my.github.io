@@ -12,14 +12,14 @@ Vi er i Stryn 17-19 juli
 Kommunekart: https://kommunekart.com/?funksjon=vispunkt&x=59.46014806814401&y=7.959087914787233&zoom=11&bakgrunnskart=0&kartlag=0833%3A%3A%3B&
 
 Aktiviteter
-    * fottur på Flo-fjellet
-    * biltur på gamle strynefjellsvei og strynefjellet
-    * olden og oldenvannet med nærområder
-    * lekeplass i stryn sentrum
-    * tur til setra på Evas slektsgård.
-    * Mye klatring i Stryn, buldring ved briksdalsbre - http://www.nordfjord.no/sjaa-og-gjere/aktivitetar/klatring-viaferrata
-    * Riding på fjording (Nordfjordeid) http://www.nordfjord.no/sjaa-og-gjere/aktivitetar/riding
-    * Stisykling gryta
+* fottur på Flo-fjellet
+* biltur på gamle strynefjellsvei og strynefjellet
+* olden og oldenvannet med nærområder
+* lekeplass i stryn sentrum
+* tur til setra på Evas slektsgård.
+* Mye klatring i Stryn, buldring ved briksdalsbre - http://www.nordfjord.no/sjaa-og-gjere/aktivitetar/klatring-viaferrata
+* Riding på fjording (Nordfjordeid) http://www.nordfjord.no/sjaa-og-gjere/aktivitetar/riding
+* Stisykling gryta
 
 # Stryn (Nordfjord)
     *   http://www.nordfjord.no

@@ -9,13 +9,12 @@ updated: "2016-07-02 11:52:00"
 Vi er i Voss 14-16 juli
 
 Aktiviteter
-
-	* Klatrepark [vossactive][vossactive] (56 51 05 25)
-	* Familierafting [vossactive][vossactive] (56 51 05 25)
-	* Voss vind [vossvind][vossvind]
-	* Sykling: rundt Vangsvatne, til Tvindefossen, eller Rallarvegen fra Finse til Voss
-	* Riding + overnatting: http://www.fjosegard.no (990 26 282, 450 53 088)
-	* Riding + hytter (6): http://www.myrkdalen-hestesenter.no (415 66 806)
+* Klatrepark [vossactive][vossactive] (56 51 05 25)
+* Familierafting [vossactive][vossactive] (56 51 05 25)
+* Voss vind [vossvind][vossvind]
+* Sykling: rundt Vangsvatne, til Tvindefossen, eller Rallarvegen fra Finse til Voss
+* Riding + overnatting: http://www.fjosegard.no (990 26 282, 450 53 088)
+* Riding + hytter (6): http://www.myrkdalen-hestesenter.no (415 66 806)
 
 
 [Kommunekart][kommune]
@@ -28,30 +27,26 @@ Hytter: http://www.visitvoss.no/overnatting/hytter-og-leilegheiter
 
 Gardsovernatting
 Voss Kommune: http://rlb.no/gaard/kommune/1235
-
-    * [Eenstunet][eenstunet]: 4 hus (5651 6834, 9959 7419)
-    * [Skjelde Gård][skjelde]: 3 hus i andre enden av vannet (5651 4290, 992 53 486)
-    * [Haugo][haugo] : sentrumsnært, pensjonat + 2 hytter (9756 2952)
-    * [Brynjelsgard][brynjelsgard]
-    * [Vossatunet][tunet]: 1 hus (5651 6387, 909 69 665)
-    * [Stalheimsoy][stalheimsoy]: 2 storhytter nær Gudvangen
+* [Eenstunet][eenstunet]: 4 hus (5651 6834, 9959 7419)
+* [Skjelde Gård][skjelde]: 3 hus i andre enden av vannet (5651 4290, 992 53 486)
+* [Haugo][haugo] : sentrumsnært, pensjonat + 2 hytter (9756 2952)
+* [Brynjelsgard][brynjelsgard]
+* [Vossatunet][tunet]: 1 hus (5651 6387, 909 69 665)
+* [Stalheimsoy][stalheimsoy]: 2 storhytter nær Gudvangen
 
 Ulvik Kommune
-
-    * Ulvik camping: http://www.camping.ulvikfjord.no, ca 3 mil fra Voss
-    * [Uppheim farm][uppheim] (5652 6293, 970 63 423, helen@uppheim-farm.com)
-    * [Sollia Øvre Skeie][sollia] (5652 6387, 954 72 941, arnmoster@ulvik.org )
-    * Ulvik (flere): http://www.oydvin-gard.no, ca 3 mil fra Voss
-    * Fullt: Øydvinstod Hyttegrend: http://www.oydvinstod.no, ca 3 mil fra Voss
+* Ulvik camping: http://www.camping.ulvikfjord.no, ca 3 mil fra Voss
+* [Uppheim farm][uppheim] (5652 6293, 970 63 423, helen@uppheim-farm.com)
+* [Sollia Øvre Skeie][sollia] (5652 6387, 954 72 941, arnmoster@ulvik.org )
+* Ulvik (flere): http://www.oydvin-gard.no, ca 3 mil fra Voss
+* Fullt: Øydvinstod Hyttegrend: http://www.oydvinstod.no, ca 3 mil fra Voss
 
 Ullensvang Kommune
-
-    * Ringøy Stovetun: http://www.ringoy.no
-    * Et stykke unna, nede ved fjorden http://www.hardanger-gjestegard.no
+* Ringøy Stovetun: http://www.ringoy.no
+* Et stykke unna, nede ved fjorden http://www.hardanger-gjestegard.no
 
 Vang
-
-	* Øystese: http://www.mogardsferie.no
+* Øystese: http://www.mogardsferie.no
 
 
   [vossactive]: http://www.vossactive.no  "Voss active"
