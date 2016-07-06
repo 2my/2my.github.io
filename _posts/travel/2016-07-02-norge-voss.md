@@ -13,6 +13,7 @@ Aktiviteter
 * Klatrepark [vossactive][vossactive] (56 51 05 25)
 * Familierafting [vossactive][vossactive] (56 51 05 25)
 * Voss vind [vossvind][vossvind]
+* Mikkelparken i Kinsarvik http://www.mikkelparken.no/, 4 mil fra
 * Sykling: rundt Vangsvatne, til Tvindefossen, eller Rallarvegen fra Finse til Voss
 * Riding + overnatting: http://www.fjosegard.no (990 26 282, 450 53 088)
 * Riding + hytter (6): http://www.myrkdalen-hestesenter.no (415 66 806)
@@ -26,8 +27,7 @@ Aktiviteter
 Camping: http://www.visitvoss.no/overnatting/campingplassar
 Hytter: http://www.visitvoss.no/overnatting/hytter-og-leilegheiter
 
-Gardsovernatting
-Voss Kommune: http://rlb.no/gaard/kommune/1235
+Gardsovernatting i Voss Kommune http://rlb.no/gaard/kommune/1235
 
 * [Eenstunet][eenstunet]: 4 hus (5651 6834, 9959 7419)
 * [Skjelde Gård][skjelde]: 3 hus i andre enden av vannet (5651 4290, 992 53 486)
@@ -46,12 +46,15 @@ Ulvik Kommune
 
 Ullensvang Kommune
 
+* http://www.huse-gjestegard.no (Kinsarvik ca 4 mil sør for Voss)
+* B&B: http://indrebjotveitgard.no, Kinsarvik
+* B&B: http://www.ullensvang-gjesteheim.no, Lofthus
 * Ringøy Stovetun: http://www.ringoy.no
-* Et stykke unna, nede ved fjorden http://www.hardanger-gjestegard.no
+* http://www.hardanger-gjestegard.no, ferge + 3 mil
 
 Vang
 
-* Øystese: http://www.mogardsferie.no, 6 mil unna
+* Gard i drift: http://www.mogardsferie.no (Øystese ca 6 mil vest for Voss)
 
 
   [vossactive]: http://www.vossactive.no  "Voss active"
