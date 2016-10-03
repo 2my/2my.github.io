@@ -3,15 +3,46 @@ title: "Reisetips"
 categories: [travel]
 layout: "posts"
 date: "2008-06-06 07:14:00"
-updated: "2010-09-28 09:54:52"
+updated: "2016-08-08 12:51:52"
 blogger:
     siteid: "36955474"
     postid: "556579896404954552"
 ---
 
-<a href='http://www.smashingmagazine.com/2008/06/03/10-places-for-design-inspiration/'>10 Places for design inspiration</a>.
 
-If u visit Norway
+
+# agritourism
+http://www.reidsguides.com/bh/agritourism.html
+https://www.visitnorway.no/opplev-livet-pa-landet/
+http://rlb.no/gaard/fylke/12
+http://www.cyclingnorway.no/ruter/familiesykling/
+
+
+# Reiseruter, sør og vest
+https://www.fjordtours.com/no/reiseruter/
+http://www.vg.no/forbruker/reise/reiseliv/ta-ferien-langs-norges-vakreste-bilruter/a/560831/
+http://www.dinside.no/777805/norges-vakreste-bilturer
+Et lite stykke Norge (Geilo-Gudvangen-Hol)
+Sogndal-Hellesylt
+Sognefjellsveien
+Lom-Åndalsnes (bl.a Trollstigen)
+Sørlandet på yttersida (Kragerø-Arendal)
+Nordsjøveien (Flekkefjord-Sandnes)
+http://visitsorlandet.blogspot.no/2014/06/sommeren-pa-srlandet-er-i-gang.html
+
+
+# Campingvogn
+M&R: http://korsnesutleige.no/camping-vogner/
+Hor: http://www.bergen-caravan.no/utleie/
+Rog: http://www.snappserviceutleie.no/#!camp-let/sff2u
+Hamar: http://m.finn.no/car/caravan/ad.html?finnkode=41621799
+http://m.finn.no/car/caravan/search.html?sales_form=2
+
+
+
+## 10 Places for design inspiration: http://www.smashingmagazine.com/2008/06/03/10-places-for-design-inspiration/.
+
+## If u visit Norway
 
 As is plain to see from www.visitnorway.com, the main attraction of Norway is the dramatic nature found in western and northern parts of the country. Here's vast areas of wilderness and barely touched nature.
 
@@ -41,8 +72,6 @@ Normally you'd expect EUR 50 - 100 for a basic hotel room.
 
 You'll find budget hostel bed in Oslo at NOK 200 = EUR 25 http://www.ankerhostel.no/
 
-At the closed ski resorts you'll get an apartment for EUR 10-30, and some of them are good
-
-for extreme sports (MTB, climbing, kayak, rafting, base-jumping, paragliding etc)
+At the closed ski resorts you'll get an apartment for EUR 10-30, and some of them are good for extreme sports (MTB, climbing, kayak, rafting, base-jumping, paragliding etc)
 
 Wilderness camping is free, and you walk straight into wilderness from a few metro stations in Oslo.
