@@ -1,6 +1,6 @@
 ---
 title: KnowIT UKE-Team (Kunde)
-categories: [cv, customer]
+categories: [cv, customer, project]
 layout: "posts"
 ---
 
