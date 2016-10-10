@@ -1,3 +1,9 @@
+---
+title: Frelst, igjen…
+categories: [work]
+layout: "posts"
+---
+
 # Frelst, igjen…
 Hvert år, omtrent på denne tia, skjer det. JavaZone er over og jeg står igjen, litt klokere, med fornya tro og mer vann på mølla.  
 Pussig nok ble jeg mest inspirert av ting jeg egentlig visste fra før. Resonans? Det er godt å være enig, men dum som jeg er, har jeg prøvd å se litt mer kritisk på det som ble sagt.
