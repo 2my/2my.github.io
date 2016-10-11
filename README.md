@@ -4,6 +4,7 @@
 GitHub Pages for 2my
 
 ´´´
+(sudo) gem install jekyll bundler
 bundle exec jekyll serve
 ´´´
 Nokogiri on Yosemite: http://ruby.zigzo.com/2015/03/18/installing-nokogiri-on-yosemite/
