@@ -1,0 +1,20 @@
+---
+layout: null
+---
+{
+	"categories": {
+		"doc": "http://jekyllrb.com/docs/variables/",
+		{% for category in site.categories %}
+			"{{ category | first }}": [
+			{% for posts in category %}{% if 0 < post.url.size %}{% endif %}
+				{% for post in posts %}
+					{	"title": "{{ post.title }}",
+						"url": "{{ post.url }}"
+					}{% unless forloop.last %},{% endunless %}
+				{% endfor %}
+			{% endfor %}
+		]{% unless forloop.last %},{% endunless %}
+		{% endfor %}
+	}
+}
+
