@@ -1,6 +1,6 @@
 ---
 title: Instruktørseminar, hp-nlf
-categories: [cv, study flying]
+categories: [cv, study, flying]
 layout: "posts"
 ---
 
