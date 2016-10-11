@@ -2,6 +2,7 @@
 layout: bootstrap
 title: Categories
 ---
+<br/>
 <!-- http://jekyllrb.com/docs/variables/ -->
 ## Categories:
 {% for category in site.categories %}
