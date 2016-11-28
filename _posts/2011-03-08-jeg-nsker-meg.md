@@ -33,6 +33,7 @@ Se liste på <a href="http://www.amazon.com/gp/registry/wishlist/JGDPEU594U0T?re
 
 Gavekort Amazon 
 
+En Nielsen black: http://www.thenielsenway.com/products/copy-of-nielsen-racing-green
 
 ### Tilbehør til Dremel
 Jeg har modellen 8000, her er noen jeg tenker på (dremel nummererer dem):
