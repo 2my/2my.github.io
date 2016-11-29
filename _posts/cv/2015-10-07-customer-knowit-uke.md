@@ -6,7 +6,7 @@ layout: "posts"
 
 2015.10.07 - 2016.01.31	100%  
 KnowIT  
-Utvikler, designer, tester, forvalter.  
+Full-stack utvikler, designer, forvalter.  
 
 Knowits UKE-team utvikler og forvalter Oslo kommunes sentrale meldingsinfrastruktur og integrasjonsplattform, herunder den sentrale tjenestebussen. I tillegg har selskapet ansvar for kommunens felles katalogtjenester. Gjennom prosjektet har Knowit vært pioner innen DevOps i Norge, og høster lovord fra kunde og oppmerksomhet i fagmiljø for denne måten å drive prosjekt.  
 
