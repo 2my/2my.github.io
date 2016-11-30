@@ -104,10 +104,12 @@ I now want to make a command-line utility of it that interpretes an external DSL
 There was a nice article in PragPub magazine that I am keen to follow up on, and I have also read too much about DSLs that I haven´t practiced yet.
 
 And both should be a nice fit here.  
-**I rarely get to do such things otherwise.**
-<a href="http://www.flickr.com/photos/72213316@N00/4320790255/" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="200" src="http://farm5.staticflickr.com/4030/4320790255_345f473f1a_n.jpg" width="146" alt="A Young Girl Reading, Jean-Honoré Fragonard"/></a>
+**I rarely get to do such things otherwise.**  
+
+<a href="http://www.flickr.com/photos/72213316@N00/4320790255/" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="200" src="http://farm5.staticflickr.com/4030/4320790255_345f473f1a_n.jpg" width="146" title="A Young Girl Reading, Jean-Honoré Fragonard"/></a>
 Normally, on daytime projects, I stop and do research when there is a need.  Now, I can read stuff from the stream that may fit nicely, or that I really would like to try.  
-And I can! Even if the project was «done» 2 months ago…
+And I can!  
+Even if the project was «done» 2 months ago…
 
 **Having a side project facilitated deeper learning.**  
 <a href="http://www.flickr.com/photos/dvanzuijlekom/7324829530/" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="200" src="http://3.bp.blogspot.com/-RXASQmHAF-I/UFJBk2_-ivI/AAAAAAAAAGU/hlYHQh8PCtE/s200/LightBulb.png" width="145" /></a>
@@ -125,18 +127,16 @@ One day at work I realized I could do it, efficiently and confidently.
 **Publishing my work has driven me to evolve.**  
 
 <a href="http://no.wikipedia.org/wiki/Fil:Francisco_de_Goya_y_Lucientes_008.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="200" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Francisco_de_Goya_y_Lucientes_008.jpg/441px-Francisco_de_Goya_y_Lucientes_008.jpg" width="146" title="El Afilador, Francisco de Goya" /></a>
-
 Being my own client has been wonderful.  
 I could sharpen my own tool and skills at the same time.  
-API cumbersome or lacking? I improved it. More usable with each reuse.
+API cumbersome or lacking? I improved it. More usable with each reuse.  
 
 <a href="http://i.istockimg.com/file_thumbview_approve/6979130/2/stock-photo-6979130-when-will-i-grow-up.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="200" src="http://i.istockimg.com/file_thumbview_approve/6979130/2/stock-photo-6979130-when-will-i-grow-up.jpg" width="132" /></a>
-
 Many revisits makes this feel like growing SW.  
 And I gradually learned more about design, documentation and testing.  
 Also because I forget stuff between iterations, and I can see better when I start with fresh eyes.
 
-<a href="http://www.flickr.com/photos/derekgavey/6068317482/" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://farm7.staticflickr.com/6184/6068317482_cf2b5e8bcf_m.jpg" /></a>
+<a href="http://www.flickr.com/photos/derekgavey/6068317482/" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://farm7.staticflickr.com/6184/6068317482_cf2b5e8bcf_m.jpg" /></a>  
 
 ### Thank you
 I really enjoy the project, tinkering with it, making it better every now and then, and learning by practicing. I would like to say thank you to Sonatype, Google, GitHub and all the other hosting sites for making this so convenient. And to Øystein Pettersen at Evry for telling me where I could get synchronization to Maven Central.
