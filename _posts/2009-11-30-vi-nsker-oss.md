@@ -26,6 +26,9 @@ Cosmos 2: https://www.platekompaniet.no/dvd/cosmos-a-spacetime-odyssey-1/
 	* Pokemon (kort)
 	* plusspluss
 	* verktøykasse, snekkerbukse
+	* nytt penal
+	* sokker, ikke svarte, str ca 34
+	* penskjorte
 	* Klær str 122 / 6år er snart ut, vintersko str 33.
 
 ### Ada ønsker seg:
