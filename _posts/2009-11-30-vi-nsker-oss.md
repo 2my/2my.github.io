@@ -31,8 +31,18 @@ Cosmos 2: https://www.platekompaniet.no/dvd/cosmos-a-spacetime-odyssey-1/
 	* penskjorte
 	* Klær str 122 / 6år er snart ut, vintersko str 33.
 
+Lego
+
+	* 76028 (Darkseid Invasion)
+	* 75112 (General Grievous)
+	* 76059 (Spider-Man: Doc Ocks Tentacle Trap)
+
+
+
+
 ### Ada ønsker seg:
 
+	* Shopkins
 	* Bruker nå klær str 122 / 6år, vintersko str 32.
 
 .
