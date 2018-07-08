@@ -6,10 +6,12 @@ date: "2017-06-11"
 ---
 
 Rallarvegen (8 mil, Haugastøl-Finse-Flåm): https://www.visitnorway.no/listings/rallarvegen-sykkelrute/111299/
-	* https://www.rallarvegen.com/sykkelutleie
 	* Turen i dnt: https://www.ut.no/tur/2.6645/
+	* https://www.rallarvegen.com/sykkelutleie
 	* Finsehytta: https://www.ut.no/hytte/3.2207/
+	* vatnahalsen.com
 	* http://www.visitrallarvegen.no
+	* Flåm Camping og Vandrarheim: camping@flaam-camping.no
 
 Kystriksveien (65 mil, Steinkjer - Bodø): https://www.visitnorway.no/reisemal/trondelag/kystriksveien/
 
